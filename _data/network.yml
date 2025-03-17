@@ -1,0 +1,21 @@
+- menu_name: "Useful links"
+
+- name: "Phlow"
+  url: "http://phlow.de/"
+  class: "rss-link"
+  title: "Theme author"
+
+- name: "Feeling Responsive"
+  url: "http://phlow.github.io/feeling-responsive/"
+  class: "sitemap-link"
+  title: "Theme link"
+
+- name: "Built on Foundation"
+  url: "http://foundation.zurb.com/"
+  class: "services-newsletter"
+  title: "Built on Foundation"
+
+#- name: "DeXP on GitHub"
+#  url: "https://github.com/DeXP"
+#  class: "network-entypo"
+#  title: "My GitHub account"
