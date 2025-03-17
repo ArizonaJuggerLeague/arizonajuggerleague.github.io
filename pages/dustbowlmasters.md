@@ -3,7 +3,7 @@ layout: category
 title: "Dust Bowl Masters"
 permalink: "/dustbowlmasters/"
 header:
-    image_fullwidth: "DustBowlPoster2.png" 
+    image_fullwidth: "HomeBanner1.png" 
 ---
 <div class="row">
 <div class="medium-4 medium-push-8 columns" markdown="1">

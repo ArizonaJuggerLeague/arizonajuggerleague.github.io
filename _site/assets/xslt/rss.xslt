@@ -326,13 +326,7 @@
           <div class="small-6 medium-3 large-3 large-offset-1 columns">
             
               
-                <h5 class="shadow-black">Services</h5>
-              
-            
-              
-            
-              
-            
+                <h5 class="shadow-black"></h5>
               
             
 
@@ -341,21 +335,6 @@
                 
                   <li >
                     <a href="http://localhost:4000"  title=""></a>
-                  </li>
-              
-                
-                  <li >
-                    <a href="http://localhost:4000/feed.xml"  title="Subscribe to RSS Feed">RSS</a>
-                  </li>
-              
-                
-                  <li >
-                    <a href="http://localhost:4000/atom.xml"  title="Subscribe to Atom Feed">Atom</a>
-                  </li>
-              
-                
-                  <li >
-                    <a href="http://localhost:4000/sitemap.xml"  title="Sitemap for Google Webmaster Tools">sitemap.xml</a>
                   </li>
               
               </ul>
@@ -380,7 +359,7 @@
             
               
                 <li class="discord-link" >
-                  <a href="https://discord.gg/eeFq873Br6" target="_blank"  title="Discord Link">Discord</a>
+                  <a href="https://discord.gg/eeFq873Br6" target="_blank"  title="Discord Link">Official AJL Discord Server</a>
                 </li>
             
             </ul>
