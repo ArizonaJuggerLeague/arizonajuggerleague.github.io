@@ -370,10 +370,6 @@
             
               
             
-              
-            
-              
-            
 
             <ul class="no-bullet shadow-black">
             
@@ -385,16 +381,6 @@
               
                 <li class="discord-link" >
                   <a href="https://discord.gg/eeFq873Br6" target="_blank"  title="Discord Link">Discord</a>
-                </li>
-            
-              
-                <li class="sitemap-link" >
-                  <a href="http://phlow.github.io/feeling-responsive/" target="_blank"  title="Theme link">Feeling Responsive</a>
-                </li>
-            
-              
-                <li class="services-newsletter" >
-                  <a href="http://foundation.zurb.com/" target="_blank"  title="Built on Foundation">Built on Foundation</a>
                 </li>
             
             </ul>
@@ -413,19 +399,11 @@
           <section id="subfooter-right" class="small-12 medium-6 columns">
             <ul class="inline-list social-icons">
             
-              <li><a href="http://github.com/dexp" target="_blank" class="icon-github_alt" title="GitHub"></a></li>
+              <li><a href="https://www.youtube.com/@ArizonaJuggerLeague" target="_blank" class="icon-youtube" title="YouTube"></a></li>
             
-              <li><a href="https://www.linkedin.com/in/dexperix/" target="_blank" class="icon-linkedin" title="LinkedIn"></a></li>
+              <li><a href="https://www.tiktok.com/@azjuggerleague" target="_blank" class="icon-tiktok" title="VKontakte"></a></li>
             
-              <li><a href="http://steamcommunity.com/id/dexp" target="_blank" class="icon-steam" title="Steam"></a></li>
-            
-              <li><a href="https://vk.com/dexperix" target="_blank" class="icon-vk" title="VKontakte"></a></li>
-            
-              <li><a href="https://www.facebook.com/dexperix" target="_blank" class="icon-facebook" title="Facebook"></a></li>
-            
-              <li><a href="skype:dexperix?chat" target="_blank" class="icon-skype" title="Skype"></a></li>
-            
-              <li><a href="https://t.me/DeXPeriX" target="_blank" class="icon-telegram" title="Telegram"></a></li>
+              <li><a href="https://www.instagram.com/arizonajuggerleague" target="_blank" class="icon-instagram" title="Instagram"></a></li>
             
             </ul>
           </section>

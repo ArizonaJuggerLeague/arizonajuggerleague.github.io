@@ -1,70 +1,14 @@
-- name: GitHub
-  url: "http://github.com/dexp"
-  class: icon-github_alt
-  title: "GitHub"
+- name: YouTube
+  url: https://www.youtube.com/@ArizonaJuggerLeague
+  class: icon-youtube
+  title: "YouTube"
 
-- name: LinkedIn
-  url: "https://www.linkedin.com/in/dexperix/"
-  class: icon-linkedin
-  title: "LinkedIn"
-
-- name: Steam
-  url: "http://steamcommunity.com/id/dexp"
-  class: icon-steam
-  title: "Steam"
-
-- name: VKontakte
-  url: "https://vk.com/dexperix"
-  class: icon-vk
+- name: TikTok
+  url: "https://www.tiktok.com/@azjuggerleague"
+  class: icon-tiktok
   title: "VKontakte"
 
-- name: Facebook
-  url: "https://www.facebook.com/dexperix"
-  class: icon-facebook
-  title: "Facebook"
-
-- name: Skype
-  url: "skype:dexperix?chat"
-  class: icon-skype
-  title: "Skype"
-
-- name: Telegram
-  url: "https://t.me/DeXPeriX"
-  class: icon-telegram
-  title: "Telegram"
-
-
-#- name: YouTube
-#  url: http://www.youtube.com/PhlowMedia
-#  class: icon-youtube
-#  title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
-
-#- name: Mixcloud
-#  url: http://www.mixcloud.com/phlow/
-#  class: icon-cloud
-#  title: "Mixe, was sonst?"
-
-#- name: Phlow YouTube Google+
-#  url: https://plus.google.com/u/0/+Phlow
-#  class: icon-googleplus
-#  title: "YouTube Google+"
-
-# - name: Soundcloud
-#   url: http://soundcloud.com/
-#   class: icon-soundcloud
-#   title: ""
-
-# - name: Instagram
-#   url: http://instagram.com/
-#   class: icon-instagram
-#   title: ""
-
-# - name: Pinterest
-#   url: http://www.pinterest.com/
-#   class: icon-pinterest
-#   title: ""
-
-# - name: Xing
-#   url: https://www.xing.com/profile/
-#   class: icon-xing
-#   title: Xing Profil
+- name: Instagram
+  url: "https://www.instagram.com/arizonajuggerleague"
+  class: icon-instagram
+  title: "Instagram"
