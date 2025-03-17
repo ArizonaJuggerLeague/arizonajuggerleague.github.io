@@ -8,33 +8,32 @@
 #                                                 /____/
 #
 # Title of your website
-title: 'DeXPeriX Home Page'
+title: 'Arizona Jugger League'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
 slogan: "Programming, Linux, Software, Martial arts"
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: 'This is my personal web page for some interesting things: programming, Linux, karate etc. The site made as a portfolio, so you can see all my works through the times. '
+description: 'This is the home of the Arizona Jugger League, LLC. We strive to create fun, competitive Jugger tournaments!'
 #'»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p>© <a href="https://dexp.in/">DeXPeriX</a></p>'
+credits: '<p>© Arizona Jugger League, LLC (2025)</p>'
 
 # Main author of the website
 # See > authors.yml
-author: dexperix
+author: Arizona Jugger League, LLC
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://dexp.in'
-#baseurl: '/feeling-responsive'
+url: 'https://arizonajuggerleague.github.io'
 baseurl: ''
 
-release_url: 'https://github.com/DeXP/dexp.github.io/releases/download/'
+release_url: 'https://arizonajuggerleague.github.io'
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
-improve_content: https://github.com/DeXP/dexp.github.io/edit/gh-pages
+improve_content: https://github.com/ArizonaJuggerLeague/arizonajuggerleague.github.io/edit/gh-pages
 
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash at the end.
@@ -42,7 +41,7 @@ improve_content: https://github.com/DeXP/dexp.github.io/edit/gh-pages
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://dexp.in/images/'
+urlimg: 'https://ArizonaJuggerLeague.github.io/images/'
 
 
 # Logo size is 600x80 pixels
@@ -122,7 +121,7 @@ defaults:
       show_meta: false 	# Hide metadata for all pages
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: dexperix     # Default author for pages
+      author: Arizona Jugger League     # Default author for pages
   -
     scope:
       path: ''
@@ -131,7 +130,7 @@ defaults:
       show_meta: true   # Show metadata for all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: dexperix     # Default author for posts
+      author: Arizona Jugger League     # Default author for posts
 
 
 
@@ -153,9 +152,9 @@ defaults:
 #   ___/ / /___/ /_/ /
 #  /____/_____/\____/    Verify Website to Webmaster Tools
 
-google_author:             'https://plus.google.com/103564845092558820899'
+#google_author:             'https://plus.google.com/103564845092558820899'
 #'https://plus.google.com/u/0/118311555303973066167'
-google_site_verification:  'oKlpPXiktShNCAf2kJbPxxSHyY8p-w_C-D27IPaRoFw'
+#google_site_verification:  'oKlpPXiktShNCAf2kJbPxxSHyY8p-w_C-D27IPaRoFw'
 #bing_webmastertools_id:    '0FB4C028ABCF07C908C54386ABD2D97F'
 # yandex_site_verification:  ''
 # alexa_verify_id:           ''
@@ -205,7 +204,7 @@ og_type:                            'website'
 
 socialmedia:
     #twitter: phlow
-    facebook: dexperix
+    facebook: Arizona Jugger League
 
 
 
