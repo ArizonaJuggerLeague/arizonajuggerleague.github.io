@@ -35,8 +35,8 @@ Each match is timed using a unique system called "stones," marked by a drumbeat 
 ## The Players
 
 Each team fields five players during a "run" (a single play):
-- **1 Runner**: The only player allowed to pick up, carry, and score with the skull. The Runner is weaponless but can physically engage with the opposing Runner to wrestle for control of the skull.
-- **4 Enforcers**: Armed with padded foam weapons called "pompfen," these players protect their Runner, attack the opposing team, and try to "down" opponents by striking them with their weapons.
+- **1 Runner**: The only player allowed to pick up, carry, and score with the jugg. The Runner is weaponless but can physically engage with the opposing Runner to wrestle for control of the jugg.
+- **4 Enforcers**: Armed with padded foam weapons called "boffers," these players protect their Runner, attack the opposing team, and try to "down" opponents by striking them with their weapons.
 
 Teams can have more than five players with substitutions allowed between runs, but only five are on the field at once.
 
@@ -49,8 +49,8 @@ Jugger is played on a 20-meter by 40-meter rectangular pitch. Each team starts b
 Here’s the basic flow of a Jugger game:
 
 1. **The Start**: The referee signals the beginning of a run with a countdown: "3… 2… 1… Jugger!" Both teams charge toward the center to claim the jugg.
-2. **The Action**: The Runners race to grab the skull and carry it to the opposing team’s goal to score a point. Meanwhile, Enforcers use their boffers—foam weapons like staffs, swords, or chains—to strike opponents and defend their Runner. When a player is hit, they’re "downed" and must kneel for a set number of stones (5, or 8 if hit by a chain) before rejoining the action.
-3. **Scoring**: The Runner scores by placing the jugg into the opposing goal. After a point, the skull is returned to the center, teams reset to their endlines, and the next run begins.
+2. **The Action**: The Runners race to grab the jugg and carry it to the opposing team’s goal to score a point. Meanwhile, Enforcers use their boffers—foam weapons like staffs, swords, or chains—to strike opponents and defend their Runner. When a player is hit, they’re "downed" and must kneel for a set number of stones (5, or 8 if hit by a chain) before rejoining the action.
+3. **Scoring**: The Runner scores by placing the jugg into the opposing goal. After a point, the jugg is returned to the center, teams reset to their endlines, and the next run begins.
 4. **Winning**: Games are played for time, and reaching a certain stone count - typically 150 - ends the half, even if a run is in progress! The stone counter only increments while a run is happening. The team with the most points at the end of the two halves wins!
 
 If a match ends in a tie, a dramatic tiebreaker called the "Golden Jugg" begins. The next team to score with a special golden jugg decides the victor.
