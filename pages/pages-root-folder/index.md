@@ -15,12 +15,12 @@ widget1:
 widget2:
   title: "What is Jugger?"
   url: '/aboutjugger/'
-  image: 'DustBowlPoster2.png'
+  image: 'GoldenSkull.png'
   text: 'New to Jugger? Start here!'
 widget3:
   title: "About the League"
   url: '/aboutus/'
-  image: 'DustBowlPoster1.png'
+  image: 'ArizonaJuggerLeague_1920x1080.png'
   text: 'Our mission and purpose as a competitive, Arizona-based Jugger league.'
 
 #
