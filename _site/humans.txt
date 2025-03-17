@@ -1,6 +1,6 @@
 /* TEAM */
 
-Name: Arizona Jugger Leaguem LLC
+Name: Arizona Jugger League, LLC
 
 
 /* THANKS */

@@ -1,9 +1,9 @@
 - menu_name: "Useful links"
 
-- name: "Phlow"
-  url: "http://phlow.de/"
-  class: "rss-link"
-  title: "Theme author"
+- name: "Discord"
+  url: "https://discord.gg/eeFq873Br6"
+  class: "discord-link"
+  title: "Discord Link"
 
 - name: "Feeling Responsive"
   url: "http://phlow.github.io/feeling-responsive/"

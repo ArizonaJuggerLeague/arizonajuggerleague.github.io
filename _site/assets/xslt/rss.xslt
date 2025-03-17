@@ -383,8 +383,8 @@
                 </li>
             
               
-                <li class="rss-link" >
-                  <a href="http://phlow.de/" target="_blank"  title="Theme author">Phlow</a>
+                <li class="discord-link" >
+                  <a href="https://discord.gg/eeFq873Br6" target="_blank"  title="Discord Link">Discord</a>
                 </li>
             
               
