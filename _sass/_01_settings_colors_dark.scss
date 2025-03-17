@@ -16,9 +16,9 @@
 /* Basics
 ------------------------------------------------------------------- */
 
-$text-color:       	#eee;
+$text-color:       	#111;
 $body-font-color: 	$text-color;
-$body-bg: 			#050505;
+$body-bg: 			#ffffff;
 
 
 
@@ -26,12 +26,12 @@ $body-bg: 			#050505;
    https://color.adobe.com/de/Flat-Design-Colors-v2-color-theme-4341903/
 ------------------------------------------------------------------- */
 
-$ci-1: #79a0b6;		// dark turquoise
-$ci-2: #40a28e;		// turquoise
-$ci-3: #c9a941;		// yellow
-$ci-4: #d0733d;		// orange
-$ci-5: #d14444;		// red
-$ci-6: #7b9e36;     // green
+$ci-1: #334D5C;		// dark turquoise
+$ci-2: #45B29D;		// turquoise
+$ci-3: #EFC94C;		// yellow
+$ci-4: #E27A3F;		// orange
+$ci-5: #DF4949;		// red
+$ci-6: #A1D044;     // green
 
 
 
@@ -50,22 +50,22 @@ $info-color: $ci-1;
 /* Grey Scale
 ------------------------------------------------------------------- */
 
-$grey-16: #E4E4E4;
-$grey-15: #D7D7D7;
-$grey-14: #CBCBCB;
-$grey-13: #BEBEBE;
-$grey-12: #A4A4A4;
-$grey-11: #979797;
-$grey-10: #8B8B8B;
-$grey-9: #7E7E7E;
-$grey-8: #646464;
-$grey-7: #575757;
-$grey-6: #4B4B4B;
-$grey-5: #3E3E3E;
-$grey-4: #313131;
-$grey-3: #242424;
-$grey-2: #171717;
-$grey-1: #0B0B0B;
+$grey-1: #E4E4E4;
+$grey-2: #D7D7D7;
+$grey-3: #CBCBCB;
+$grey-4: #BEBEBE;
+$grey-5: #A4A4A4;
+$grey-6: #979797;
+$grey-7: #8B8B8B;
+$grey-8: #7E7E7E;
+$grey-9: #646464;
+$grey-10: #575757;
+$grey-11: #4B4B4B;
+$grey-12: #3E3E3E;
+$grey-13: #313131;
+$grey-14: #242424;
+$grey-15: #171717;
+$grey-16: #0B0B0B;
 
 
 
@@ -78,10 +78,10 @@ $topbar-bg: $topbar-bg-color;
 
 $topbar-dropdown-toggle-color: $ci-1;
 
-$topbar-link-color: #fff;
-$topbar-link-color-hover: #fff;
-$topbar-link-color-active: #fff;
-$topbar-link-color-active-hover: #fff;
+$topbar-link-color: #000;
+$topbar-link-color-hover: #000;
+$topbar-link-color-active: #000;
+$topbar-link-color-active-hover: #000;
 
 $topbar-dropdown-label-color: $ci-2;
 $topbar-dropdown-link-bg-hover: $ci-6;
@@ -92,13 +92,13 @@ $topbar-link-bg-active-hover: $ci-2;
 
 
 $topbar-dropdown-bg: $ci-6; // Background Mobile Navigation
-$topbar-dropdown-link-color: #fff;
+$topbar-dropdown-link-color: #000;
 $topbar-dropdown-link-bg: $ci-2;
 
 $topbar-menu-link-color-toggled: $ci-1;
 $topbar-menu-icon-color-toggled: $ci-1;
-$topbar-menu-link-color: #fff;
-$topbar-menu-icon-color: #fff;
+$topbar-menu-link-color: #000;
+$topbar-menu-icon-color: #000;
 $topbar-menu-link-color-toggled: $ci-6;
 $topbar-menu-icon-color-toggled: $ci-6;
 
@@ -107,12 +107,12 @@ $topbar-menu-icon-color-toggled: $ci-6;
 /* Footer
 ------------------------------------------------------------------- */
 
-$footer-bg: $grey-2;
-$footer-color: #eee;
+$footer-bg: $grey-8;
+$footer-color: #fff;
 $footer-link-color: $ci-6;
 
 
-$subfooter-bg: $grey-3;
+$subfooter-bg: $grey-13;
 $subfooter-color: $grey-8;
 $subfooter-link-color: $grey-8;
 
