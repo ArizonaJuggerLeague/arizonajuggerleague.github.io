@@ -155,12 +155,6 @@
 
           
           
-        
-
-              
-
-          
-          
             
             
               <li class="divider"></li>
@@ -197,7 +191,7 @@
 
             
             
-              <li><a href="http://localhost:4000/">DeXP</a></li>
+              <li><a href="http://localhost:4000/">Home</a></li>
               <li class="divider"></li>
 
             
@@ -212,7 +206,33 @@
 
             
             
-              <li><a href="http://localhost:4000/games/">Games</a></li>
+
+              <li class="has-dropdown">
+                <a href="http://localhost:4000">Tournaments</a>
+
+                  <ul class="dropdown">
+                    
+
+                      
+
+                      <li><a href="http://localhost:4000/dustbowlmasters/">Dust Bowl Masters</a></li>
+                    
+                  </ul>
+                  
+              </li>
+              <li class="divider"></li>
+            
+          
+        
+
+              
+
+          
+          
+
+            
+            
+              <li><a href="http://localhost:4000/tools/">About Jugger</a></li>
               <li class="divider"></li>
 
             
@@ -227,22 +247,7 @@
 
             
             
-              <li><a href="http://localhost:4000/tools/">Tools</a></li>
-              <li class="divider"></li>
-
-            
-            
-          
-        
-
-              
-
-          
-          
-
-            
-            
-              <li><a href="http://localhost:4000/sites/">Sites</a></li>
+              <li><a href="http://localhost:4000/sites/">About Us</a></li>
               <li class="divider"></li>
 
             
@@ -291,32 +296,6 @@
               <li class="divider"></li>
 
             
-            
-          
-        
-
-              
-
-          
-          
-
-            
-            
-
-              <li class="has-dropdown">
-                <a href="http://localhost:4000/blog/">Blog</a>
-
-                  <ul class="dropdown">
-                    
-
-                      
-
-                      <li><a href="http://localhost:4000/blog/archive/">Blog Archive</a></li>
-                    
-                  </ul>
-                  
-              </li>
-              <li class="divider"></li>
             
           
         

@@ -1,19 +1,21 @@
 #
 #   Navigation to the left › side: left
 #
-- title: DeXP
+- title: Home
   url: "/"
   side: left
 
-- title: Games
-  url: "/games/"
+- title: Tournaments
   side: left
+  dropdown:
+  - title: "Dust Bowl Masters"
+    url: "/dustbowlmasters/"
 
-- title: Tools
+- title: About Jugger
   url: "/tools/"
   side: left
 
-- title: Sites
+- title: About Us
   url: "/sites/"
   side: left
 
@@ -28,13 +30,6 @@
 - title: Russian
   url: "/russian/"
   side: left
-
-- title: Blog
-  url: "/blog/"
-  side: left
-  dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
 
 #
 #   Navigation to the right › side: right
