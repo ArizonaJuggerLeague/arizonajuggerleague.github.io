@@ -137,42 +137,10 @@
 
           
           
-        
-
-              
-
-          
-          
-        
-
-              
-
-          
-          
-        
-
-              
-
-          
-          
             
             
               <li class="divider"></li>
               <li><a href="http://localhost:4000/search/">Search</a></li>
-
-            
-            
-          
-        
-
-              
-
-          
-          
-            
-            
-              <li class="divider"></li>
-              <li><a href="http://localhost:4000/about/">About</a></li>
 
             
             
@@ -232,7 +200,7 @@
 
             
             
-              <li><a href="http://localhost:4000/tools/">About Jugger</a></li>
+              <li><a href="http://localhost:4000/aboutjugger/">About Jugger</a></li>
               <li class="divider"></li>
 
             
@@ -247,62 +215,11 @@
 
             
             
-              <li><a href="http://localhost:4000/sites/">About Us</a></li>
+              <li><a href="http://localhost:4000/aboutus/">About Us</a></li>
               <li class="divider"></li>
 
             
             
-          
-        
-
-              
-
-          
-          
-
-            
-            
-              <li><a href="http://localhost:4000/articles/">Articles</a></li>
-              <li class="divider"></li>
-
-            
-            
-          
-        
-
-              
-
-          
-          
-
-            
-            
-              <li><a href="http://localhost:4000/photo/">Photo</a></li>
-              <li class="divider"></li>
-
-            
-            
-          
-        
-
-              
-
-          
-          
-
-            
-            
-              <li><a href="http://localhost:4000/russian/">Russian</a></li>
-              <li class="divider"></li>
-
-            
-            
-          
-        
-
-              
-
-          
           
         
 

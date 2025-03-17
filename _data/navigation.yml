@@ -12,23 +12,11 @@
     url: "/dustbowlmasters/"
 
 - title: About Jugger
-  url: "/tools/"
+  url: "/aboutjugger/"
   side: left
 
 - title: About Us
-  url: "/sites/"
-  side: left
-
-- title: Articles
-  url: "/articles/"
-  side: left
-
-- title: Photo
-  url: "/photo/"
-  side: left
-
-- title: Russian
-  url: "/russian/"
+  url: "/aboutus/"
   side: left
 
 #
@@ -41,8 +29,4 @@
 
 - title: "Search"
   url: "/search/"
-  side: right
-
-- title: "About"
-  url: "/about/"
   side: right
