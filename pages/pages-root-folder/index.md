@@ -6,22 +6,22 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: home/HomeBanner.png
+  image_fullwidth: HomeBanner.png
 widget1:
-  title: "Games & Fun"
+  title: "Dust Bowl Masters 2026"
   url: '/games/'
   image: 'widget-games-303x182.jpg'
-  text: 'Some great games:<br/>1. One Manga Day - visual novel<br/>2. Winter Novel - visual novel<br/>3. Wordlase - word puzzle<br/>Available on <em>Steam</em>!'
+  text: 'Introducing our premier tournament with a $2000 cash prize, Dust Bowl Masters 2026!<br/>Click here for more information!'
 widget2:
-  title: "Tools & Utilities"
+  title: "What is Jugger?"
   url: '/tools/'
   image: 'widget-tools-303x182.jpg'
-  text: 'Different tools. Starting from different calculators and ends with pseudo-random sequences generators!<br/>Most of the tools have the source code. So you can compile it by yourself.'
+  text: 'New to Jugger? Start here!'
 widget3:
-  title: "Sites & Applications"
+  title: "About the League"
   url: '/sites/'
   image: 'widget-sites-303x182.jpg'
-  text: 'Commercial and opensource websites.<br/>PHP, Jekyll, AJAX, JQuery and many other interesting technologies!<br/>Also web-based HTML/JavaScript applications.'
+  text: 'Our mission and purpose as a competitive, Arizona-based Jugger league.'
 
 #
 # Use the call for action to show a button on the frontpage
