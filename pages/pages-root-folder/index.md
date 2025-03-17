@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: Dexp_Tesla.jpg
+  image_fullwidth: home/HomeBanner.png
 widget1:
   title: "Games & Fun"
   url: '/games/'
