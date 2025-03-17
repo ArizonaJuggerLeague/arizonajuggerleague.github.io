@@ -1,7 +1,7 @@
 ---
 layout: category
 title: "Articles"
-permalink: "/articles/"
+permalink: "/aboutjugger/"
 header:
     image_fullwidth: "Dexp_Kautsu-Dachi.jpg"
 redirect_from:

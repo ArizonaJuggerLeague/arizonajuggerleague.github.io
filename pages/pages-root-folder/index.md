@@ -6,21 +6,21 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: HomeBanner.png
+  image_fullwidth: HomeBanner1.png
 widget1:
   title: "Dust Bowl Masters 2026"
-  url: '/games/'
-  image: 'widget-games-303x182.jpg'
+  url: '/dustbowlmasters/'
+  image: 'DustBowlPoster2.png'
   text: 'Introducing our premier tournament with a $2000 cash prize, Dust Bowl Masters 2026!<br/>Click here for more information!'
 widget2:
   title: "What is Jugger?"
-  url: '/tools/'
-  image: 'widget-tools-303x182.jpg'
+  url: '/aboutjugger/'
+  image: 'DustBowlPoster2.png'
   text: 'New to Jugger? Start here!'
 widget3:
   title: "About the League"
-  url: '/sites/'
-  image: 'widget-sites-303x182.jpg'
+  url: '/aboutus/'
+  image: 'DustBowlPoster1.png'
   text: 'Our mission and purpose as a competitive, Arizona-based Jugger league.'
 
 #
