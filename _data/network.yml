@@ -2,13 +2,13 @@
 
 - name: "Instagram"
   url: "https://www.instagram.com/arizonajuggerleague/?next=%2F"
-  class: "discord-link"
-  title: "Discord Link"
+  class: "instagram-link"
+  title: "Instagram Link"
 
 - name: "TikTok"
   url: "https://www.tiktok.com/@azjuggerleague"
-  class: "discord-link"
-  title: "Discord Link"
+  class: "tiktok-link"
+  title: "TikTok Link"
 
 - name: "National Jugger Alliance discord"
   url: "https://discord.gg/jNC5TzkVm7"

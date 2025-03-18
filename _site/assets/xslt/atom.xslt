@@ -362,13 +362,13 @@
                 </li>
             
               
-                <li class="discord-link" >
-                  <a href="https://www.instagram.com/arizonajuggerleague/?next=%2F" target="_blank"  title="Discord Link">Instagram</a>
+                <li class="instagram-link" >
+                  <a href="https://www.instagram.com/arizonajuggerleague/?next=%2F" target="_blank"  title="Instagram Link">Instagram</a>
                 </li>
             
               
-                <li class="discord-link" >
-                  <a href="https://www.tiktok.com/@azjuggerleague" target="_blank"  title="Discord Link">TikTok</a>
+                <li class="tiktok-link" >
+                  <a href="https://www.tiktok.com/@azjuggerleague" target="_blank"  title="TikTok Link">TikTok</a>
                 </li>
             
               
