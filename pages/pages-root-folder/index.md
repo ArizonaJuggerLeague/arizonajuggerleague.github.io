@@ -19,7 +19,7 @@ widget2:
   text: 'New to Jugger? Start here!'
 widget3:
   title: "About the League"
-  url: '/aboutus/'
+  url: '/about/'
   image: 'ArizonaJuggerLeague_1920x1080.png'
   text: 'Our mission and purpose as a competitive, Arizona-based Jugger league.'
 

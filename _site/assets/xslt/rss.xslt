@@ -215,7 +215,7 @@
 
             
             
-              <li><a href="http://localhost:4000/aboutus/">About Us</a></li>
+              <li><a href="http://localhost:4000/about/">About Us</a></li>
               <li class="divider"></li>
 
             

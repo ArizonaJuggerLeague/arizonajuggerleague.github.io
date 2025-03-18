@@ -3,7 +3,7 @@ layout: page
 title: "About Us"
 subheadline: ""
 teaser: ""
-permalink: "/aboutus/"
+permalink: "/about/"
 header:
     image_fullwidth: "HomeBanner1.png"
 ---
