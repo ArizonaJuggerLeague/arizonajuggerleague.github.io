@@ -106,6 +106,9 @@ Yes, before registration closes in February 2026 you may contact one of our orga
 #### What happens if I need to cancel my team's registration?
 If you wish to cancel your team's registration, so long as you do so before registration closes in February 2026, we will refund 50% of your registration payment. 
 
+#### What happens if the tournament gets cancelled?
+In the unlikely event that the tournament gets cancelled, all registered teams will be issued a full refund for their entry fee.
+
 ## Prizes and Awards:
 
 #### What are the prizes for winning?
