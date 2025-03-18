@@ -21,3 +21,8 @@ Adrian has been playing Jugger for over four years, primarily playing *staff* an
 #### Keaten Wood
 
 Keaten has been playing jugger for eight years, primarily playing *chain* but also *runner* and *longsword*. He spent most of his time playing for the Phoenix Lights, earning many podium and first-place finishes at national-level tournaments during his tenure. He also competed internationally in the 2023 Jugger World Cup with the American Rejects.
+
+
+### Contact Us
+
+Please direct any communication to <contact@arizonajuggerleague.com>, where we will get back to you as soon as possible.
