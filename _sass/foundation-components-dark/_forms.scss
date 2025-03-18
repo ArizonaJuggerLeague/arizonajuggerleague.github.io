@@ -18,15 +18,15 @@ $form-label-pointer: pointer !default;
 $form-label-font-size: rem-calc(14) !default;
 $form-label-font-weight: $font-weight-normal !default;
 $form-label-line-height: 1.5 !default;
-$form-label-font-color: scale-color($white, $lightness: 30%) !default;
+$form-label-font-color: scale-color($black, $lightness: 30%) !default;
 $form-label-small-transform: capitalize !default;
 $form-label-bottom-margin: 0 !default;
 $input-font-family: inherit !default;
-$input-font-color: rgba(255, 255, 255, 0.75) !default;
+$input-font-color: rgba(0,0,0,0.75) !default;
 $input-font-size: rem-calc(14) !default;
-$input-bg-color: $black !default;
-$input-focus-bg-color: scale-color($black, $lightness: -2%) !default;
-$input-border-color: scale-color($black, $lightness: -20%) !default;
+$input-bg-color: $white !default;
+$input-focus-bg-color: scale-color($white, $lightness: -2%) !default;
+$input-border-color: scale-color($white, $lightness: -20%) !default;
 $input-focus-border-color: scale-color($white, $lightness: -40%) !default;
 $input-border-style: solid !default;
 $input-border-width: 1px !default;
@@ -49,13 +49,13 @@ $legend-font-weight: $font-weight-bold !default;
 $legend-padding: rem-calc(0 3) !default;
 
 // We use these to style the prefix and postfix input elements
-$input-prefix-bg: scale-color($black, $lightness: -5%) !default;
-$input-prefix-border-color: scale-color($black, $lightness: -20%) !default;
+$input-prefix-bg: scale-color($white, $lightness: -5%) !default;
+$input-prefix-border-color: scale-color($white, $lightness: -20%) !default;
 $input-prefix-border-size: 1px !default;
 $input-prefix-border-type: solid !default;
 $input-prefix-overflow: hidden !default;
 $input-prefix-font-color: $oil !default;
-$input-prefix-font-color-alt: $black !default;
+$input-prefix-font-color-alt: $white !default;
 
 // We use this setting to turn on/off HTML5 number spinners (the up/down arrows)
 $input-number-spinners: true !default;
@@ -66,7 +66,7 @@ $input-error-message-top: -1px !default;
 $input-error-message-font-size: rem-calc(12) !default;
 $input-error-message-font-weight: $font-weight-normal !default;
 $input-error-message-font-style: italic !default;
-$input-error-message-font-color: $black !default;
+$input-error-message-font-color: $white !default;
 $input-error-message-bg-color: $alert-color !default;
 $input-error-message-font-color-alt: $oil !default;
 

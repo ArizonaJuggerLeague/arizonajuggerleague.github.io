@@ -220,40 +220,33 @@ $base-line-height: 1.5 !default;
   clip: auto;
 }
 
-$white        : #FFFFFF !default;
-$jet          : #FAFAFA !default;
-$oil          : #F9F9F9 !default;
-$tuatara      : #F6F6F6 !default;
-$charcoal     : #F5F5F5 !default;
-$steel        : #EFEFEF !default;
-$monsoon      : #EEEEEE !default;
-$jumbo        : #DDDDDD !default;
-$aluminum     : #CCCCCC !default;
-$base         : #AAAAAA !default;
-$iron         : #999999 !default;
-$gainsboro    : #888888 !default;
-$smoke        : #777777 !default;
-$silver       : #666666 !default;
-$white-smoke  : #555555 !default;
-$vapor        : #444444 !default;
-$snow         : #333333 !default;
-$ghost        : #222222 !default;
-$black        : #000000 !default;
+$white         : #FFFFFF !default;
+$ghost         : #FAFAFA !default;
+$snow          : #F9F9F9 !default;
+$vapor         : #F6F6F6 !default;
+$white-smoke   : #F5F5F5 !default;
+$silver        : #EFEFEF !default;
+$smoke         : #EEEEEE !default;
+$gainsboro     : #DDDDDD !default;
+$iron          : #CCCCCC !default;
+$base          : #AAAAAA !default;
+$aluminum      : #999999 !default;
+$jumbo         : #888888 !default;
+$monsoon       : #777777 !default;
+$steel         : #666666 !default;
+$charcoal      : #555555 !default;
+$tuatara       : #444444 !default;
+$oil           : #333333 !default;
+$jet           : #222222 !default;
+$black         : #000000 !default;
 
 // We use these as default colors throughout
-$primary-color: #013c50 !default;   // bondi-blue
-$secondary-color: #343434 !default; // white-lilac
-$alert-color: #991b1b !default;     // cinnabar
-$success-color: #2d7548 !default;   // sea-green
-$warning-color: #a04918 !default;   // carrot
-$info-color: #293e4a !default;      // cornflower
-
-$primary-color-dark: #013c50 !default;   // bondi-blue
-$secondary-color-dark: #343434 !default; // white-lilac
-$alert-color-dark: #991b1b !default;     // cinnabar
-$success-color-dark: #5d731d !default;   // sea-green
-$warning-color-dark: #a04918 !default;   // carrot
-$info-color-dark: #293e4a !default;      // cornflower
+$primary-color: #008CBA !default;   // bondi-blue
+$secondary-color: #e7e7e7 !default; // white-lilac
+$alert-color: #f04124 !default;     // cinnabar
+$success-color: #43AC6A !default;   // sea-green
+$warning-color: #f08a24 !default;   // carrot
+$info-color: #a0d3e8 !default;      // cornflower
 
 // We use these to define default font stacks
 $font-family-sans-serif: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif !default;
@@ -265,8 +258,8 @@ $font-weight-normal: normal !default;
 $font-weight-bold: bold !default;
 
 // We use these to control various global styles
-$body-bg: #000 !default;
-$body-font-color: #ddd !default;
+$body-bg: #fff !default;
+$body-font-color: #222 !default;
 $body-font-family: $font-family-sans-serif !default;
 $body-font-weight: $font-weight-normal !default;
 $body-font-style: normal !default;
@@ -292,8 +285,8 @@ $global-rounded: 1000px !default;
 
 // We use these to control inset shadow shiny edges and depressions.
 $shiny-edge-size: 0 1px 0 !default;
-$shiny-edge-color: rgba(#222, .5) !default;
-$shiny-edge-active-color: rgba(#eee, .2) !default;
+$shiny-edge-color: rgba(#fff, .5) !default;
+$shiny-edge-active-color: rgba(#000, .2) !default;
 
 // We use this to control whether or not CSS classes come through in the gem files.
 $include-html-classes: true !default;
