@@ -69,6 +69,4 @@ When you watch a Jugger match, expect a whirlwind of action! You’ll see Runner
 
 ## Get Involved!
 
-Jugger is a growing sport with passionate communities across the globe. Whether you want to cheer from the sidelines or grab a boffer and join a team, there’s a place for you. Feel free to join the Arizona Jugger League community via the official Discord server [here](https://discord.gg/eeFq873Br6).
-
-To connect with the Jugger community in the United States, the National Jugger Alliance Discord server can be found [here](https://discord.gg/jNC5TzkVm7).
+Jugger is a growing sport with passionate communities across the globe. Whether you want to cheer from the sidelines or grab a boffer and join a team, there’s a place for you. To connect with the Jugger community in the United States, the National Jugger Alliance Discord server can be found [here](https://discord.gg/jNC5TzkVm7).

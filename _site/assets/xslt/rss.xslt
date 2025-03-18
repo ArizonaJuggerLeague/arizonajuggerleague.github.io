@@ -349,6 +349,10 @@
             
               
             
+              
+            
+              
+            
 
             <ul class="no-bullet shadow-black">
             
@@ -359,7 +363,17 @@
             
               
                 <li class="discord-link" >
-                  <a href="https://discord.gg/eeFq873Br6" target="_blank"  title="Discord Link">Official AJL Discord Server</a>
+                  <a href="https://www.instagram.com/arizonajuggerleague/?next=%2F" target="_blank"  title="Discord Link">Instagram</a>
+                </li>
+            
+              
+                <li class="discord-link" >
+                  <a href="https://www.tiktok.com/@azjuggerleague" target="_blank"  title="Discord Link">TikTok</a>
+                </li>
+            
+              
+                <li class="discord-link" >
+                  <a href="https://discord.gg/jNC5TzkVm7" target="_blank"  title="Discord Link">National Jugger Alliance discord</a>
                 </li>
             
             </ul>

@@ -1,11 +1,16 @@
 - menu_name: "Useful links"
 
-- name: "Official AJL Discord Server"
-  url: "https://discord.gg/eeFq873Br6"
+- name: "Instagram"
+  url: "https://www.instagram.com/arizonajuggerleague/?next=%2F"
   class: "discord-link"
   title: "Discord Link"
 
-#- name: "DeXP on GitHub"
-#  url: "https://github.com/DeXP"
-#  class: "network-entypo"
-#  title: "My GitHub account"
+- name: "TikTok"
+  url: "https://www.tiktok.com/@azjuggerleague"
+  class: "discord-link"
+  title: "Discord Link"
+
+- name: "National Jugger Alliance discord"
+  url: "https://discord.gg/jNC5TzkVm7"
+  class: "discord-link"
+  title: "Discord Link"
