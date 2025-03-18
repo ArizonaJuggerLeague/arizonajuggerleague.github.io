@@ -29,7 +29,7 @@ header:
 
 The Arizona Jugger League is pleased to announce our premier tournament, Dust Bowl Masters 2026! As an organization focused on hosting high-quality, competitive Jugger tournaments, DBM 2026 will differ from past American Jugger tournaments in the following ways:
 
-- There will be a **$2000 prize pool**, making DBM 2026 the first American tournament to ever offer a cash prize!
+- There will be a **$2000 prize pool**!
 - All fields will have four paid referees, and attending teams will not be refereeing games. Enjoy your downtime between matches!
 - All matches will be recorded with multiple camera angles, automatically compiled, and uploaded once the match concludes.
 
