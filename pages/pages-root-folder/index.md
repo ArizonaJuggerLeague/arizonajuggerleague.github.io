@@ -21,7 +21,7 @@ widget3:
   title: "About the League"
   url: '/about/'
   image: 'ArizonaJuggerLeague_1920x1080.png'
-  text: 'Our mission and purpose as a competitive, Arizona-based Jugger league.'
+  text: 'Our mission and purpose as a competitive, tournament-driven Jugger organization.'
 
 #
 # Use the call for action to show a button on the frontpage
