@@ -8,21 +8,21 @@
 #                                                 /____/
 #
 # Title of your website
-title: 'Arizona Jugger League'
+title: 'Jugger Champions Circuit'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: "Arizona Jugger League"
+slogan: "Jugger Champions Circuit"
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: 'This is the home of the Arizona Jugger League, LLC. We strive to create fun, competitive Jugger tournaments!'
+description: 'This is the home of the Jugger Champions Circuit. We strive to create fun, competitive Jugger tournaments!'
 #'»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p>© Arizona Jugger League, LLC (2025)</p>'
+credits: '<p>© Jugger Champions Circuit (2025)</p>'
 
 # Main author of the website
 # See > authors.yml
-author: Arizona Jugger League, LLC
+author: Jugger Champions Circuit
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
@@ -121,7 +121,7 @@ defaults:
       show_meta: false 	# Hide metadata for all pages
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: Arizona Jugger League     # Default author for pages
+      author: Jugger Champions Circuit     # Default author for pages
   -
     scope:
       path: ''
@@ -130,7 +130,7 @@ defaults:
       show_meta: true   # Show metadata for all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: Arizona Jugger League     # Default author for posts
+      author: Jugger Champions Circuit     # Default author for posts
 
 
 
@@ -204,7 +204,7 @@ og_type:                            'website'
 
 socialmedia:
     #twitter: phlow
-    facebook: Arizona Jugger League
+    facebook: Jugger Champions Circuit
 
 
 

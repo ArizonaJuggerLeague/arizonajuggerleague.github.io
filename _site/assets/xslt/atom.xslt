@@ -32,7 +32,7 @@
 
 
 	<!-- Search Engine Optimization -->
-	<meta name="description" content="This is the home of the Arizona Jugger League, LLC. We strive to create fun, competitive Jugger tournaments!">
+	<meta name="description" content="This is the home of the Jugger Champions Circuit. We strive to create fun, competitive Jugger tournaments!">
 	
 	
 	
@@ -44,13 +44,13 @@
 
 	<!-- Facebook Open Graph -->
 	<meta property="og:title" content="Atom Feed (Styled)">
-	<meta property="og:description" content="This is the home of the Arizona Jugger League, LLC. We strive to create fun, competitive Jugger tournaments!">
+	<meta property="og:description" content="This is the home of the Jugger Champions Circuit. We strive to create fun, competitive Jugger tournaments!">
 	<meta property="og:url" content="http://localhost:4000/assets/xslt/atom.xslt">
 	<meta property="og:locale" content="en_EN">
 	<meta property="og:type" content="website">
-	<meta property="og:site_name" content="Arizona Jugger League">
+	<meta property="og:site_name" content="Jugger Champions Circuit">
 	
-	<meta property="article:author" content="https://www.facebook.com/Arizona Jugger League">
+	<meta property="article:author" content="https://www.facebook.com/Jugger Champions Circuit">
 
 
 	
@@ -99,7 +99,7 @@
   <nav class="top-bar" role="navigation" data-topbar>
     <ul class="title-area">
       <li class="name">
-      <h1 class="show-for-small-only"><a href="http://localhost:4000" class="icon-tree"> Arizona Jugger League</a></h1>
+      <h1 class="show-for-small-only"><a href="http://localhost:4000" class="icon-tree"> Jugger Champions Circuit</a></h1>
     </li>
        <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
       <li class="toggle-topbar menu-icon"><a href="#"><span>Navigation</span></a></li>
@@ -239,8 +239,8 @@
 <div id="masthead-no-image-header">
 	<div class="row">
 		<div class="small-12 columns">
-			<a id="logo" href="http://localhost:4000/" title="Arizona Jugger League – Arizona Jugger League">
-				<img src="http://localhost:4000/assets/img/logo.png" alt="Arizona Jugger League – Arizona Jugger League">
+			<a id="logo" href="http://localhost:4000/" title="Jugger Champions Circuit – Jugger Champions Circuit">
+				<img src="http://localhost:4000/assets/img/logo.png" alt="Jugger Champions Circuit – Jugger Champions Circuit">
 			</a>
 		</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->
@@ -317,7 +317,7 @@
             <h5 class="shadow-black">About This Site</h5>
 
             <p class="shadow-black">
-              This is the home of the Arizona Jugger League, LLC. We strive to create fun, competitive Jugger tournaments!
+              This is the home of the Jugger Champions Circuit. We strive to create fun, competitive Jugger tournaments!
               <a href="http://localhost:4000/about/">More ›</a>
             </p>
           </div><!-- /.large-6.columns -->
@@ -363,7 +363,7 @@
             
               
                 <li class="instagram-link" >
-                  <a href="https://www.instagram.com/arizonajuggerleague/?next=%2F" target="_blank"  title="Instagram Link">Instagram</a>
+                  <a href="https://www.instagram.com/arizonajuggerleague" target="_blank"  title="Instagram Link">Instagram</a>
                 </li>
             
               
@@ -386,13 +386,13 @@
       <div id="subfooter">
         <nav class="row">
           <section id="subfooter-left" class="small-12 medium-6 columns credits">
-            <p>© Arizona Jugger League, LLC (2025)</p>
+            <p>© Jugger Champions Circuit (2025)</p>
           </section>
 
           <section id="subfooter-right" class="small-12 medium-6 columns">
             <ul class="inline-list social-icons">
             
-              <li><a href="https://www.youtube.com/@ArizonaJuggerLeague" target="_blank" class="icon-youtube" title="YouTube"></a></li>
+              <li><a href="https://www.youtube.com/@JuggerChampions" target="_blank" class="icon-youtube" title="YouTube"></a></li>
             
               <li><a href="https://www.tiktok.com/@azjuggerleague" target="_blank" class="icon-tiktok" title="VKontakte"></a></li>
             

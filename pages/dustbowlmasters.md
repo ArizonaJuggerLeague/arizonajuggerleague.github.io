@@ -27,7 +27,7 @@ header:
 > Play hard, you'll forget the fear.
 <cite>Unknown</cite>
 
-The Arizona Jugger League is pleased to announce our premier tournament, Dust Bowl Masters 2026! As an organization focused on hosting high-quality, competitive Jugger tournaments, DBM 2026 will differ from past American Jugger tournaments in the following ways:
+The Jugger Champions Circuit is pleased to announce our premier tournament, Dust Bowl Masters 2026, to be hosted in the Phoenix, Arizona metro area! As an organization focused on hosting high-quality, competitive Jugger tournaments, DBM 2026 will differ from past American Jugger tournaments in the following ways:
 
 - There will be a **$2000 prize pool**!
 - All fields will have four paid referees, and attending teams will not be refereeing games. Enjoy your downtime between matches!
@@ -131,10 +131,10 @@ If weather is not conducive to safe play during the tournament and we are not ab
 Yes! We are looking to pay 8 referees $300 each to help us with the tournament. 
 
 #### Who do I contact if I have questions or feedback during the tournament?
-Feel free to send your feedback to arizonajuggerleague@gmail.com, or pull aside one of the tournament organizers when they have time.
+Feel free to send your feedback to contact@juggerchampions.com, or pull aside one of the tournament organizers when they have time.
 
 #### Will the tournament be recording our matches?
 Yes! We will have 3 cameras set up on each field that will be setup to record simultaneously. Footage will be programmatically edited and uploaded to YouTube immediately after the match concludes.
 
 #### Will the tournament be live-streamed?
-While the logistics still need to be worked out before this is confirmed, AJL aims to also Livestream the tournament on twitch! 
+While the logistics still need to be worked out before this is confirmed, JCC aims to also livestream the tournament on Twitch! 

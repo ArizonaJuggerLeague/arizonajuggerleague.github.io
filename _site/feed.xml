@@ -3,8 +3,8 @@
 <?xml-stylesheet type="text/css" href="http://localhost:4000/assets/css/rss.css" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Arizona Jugger League</title>
-		<description>This is the home of the Arizona Jugger League, LLC. We strive to create fun, competitive Jugger tournaments!</description>
+		<title>Jugger Champions Circuit</title>
+		<description>This is the home of the Jugger Champions Circuit. We strive to create fun, competitive Jugger tournaments!</description>
 		<link>http://localhost:4000/</link>
 		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
 		

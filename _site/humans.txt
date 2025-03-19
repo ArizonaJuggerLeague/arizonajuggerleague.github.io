@@ -1,6 +1,6 @@
 /* TEAM */
 
-Name: Arizona Jugger League, LLC
+Name: Jugger Champions Circuit
 
 
 /* THANKS */
