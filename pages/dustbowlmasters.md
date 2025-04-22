@@ -22,7 +22,8 @@ header:
 
 <br/>
 
-# Dust Bowl Masters 2026
+# Dust Bowl Masters 2026 - [Registration Now Open!](https://docs.google.com/forms/d/e/1FAIpQLScAXSQ5jlwAP1HCN7XutgThhfZZbMDTg6HAJKWyx7F_yBCCVg/viewform)
+
 
 > Play hard, you'll forget the fear.
 <cite>Unknown</cite>
@@ -62,7 +63,10 @@ There will be an entry fee of $400 per team after our early bird registration de
 If you register before September 30th, 2025, we will discount the charge to $300 per team.
 
 #### How can I enter?
-Registration will open on April 19th, along with instructions on how to register.
+Registration is done by submitting the following form and providing payment: [https://docs.google.com/forms/d/e/1FAIpQLScAXSQ5jlwAP1HCN7XutgThhfZZbMDTg6HAJKWyx7F_yBCCVg/viewform](https://docs.google.com/forms/d/e/1FAIpQLScAXSQ5jlwAP1HCN7XutgThhfZZbMDTg6HAJKWyx7F_yBCCVg/viewform).
+
+*Your registration is only confirmed upon receipt of the entry fee.* ***Submission of the above form without providing payment does not reserve your spot!***
+
 We have an 8 team cap for this tournament, after which further registrations will be placed on a waitlist if necessary.
 
 
@@ -98,7 +102,7 @@ Teams will be allowed only to play with the team members who signed up with them
 If a team is too injured or worn to continue without additional players, they will be expected to forfeit the tournament.
 
 #### When are the registration deadlines?
-Registration will close in February 2026. Specific registration deadlines are TBA.
+Registration will close in February 2026. Early-bird registration ends September 30th
 
 #### Can I make changes to my team’s registration after submitting it?
 Yes, before registration closes in February 2026 you may contact one of our organizers to add / remove players from your roster, or make any other reasonable changes.

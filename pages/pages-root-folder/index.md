@@ -11,7 +11,7 @@ widget1:
   title: "Dust Bowl Masters 2026"
   url: '/dustbowlmasters/'
   image: 'DustBowlPoster2.png'
-  text: 'Introducing our premier tournament with a $2000 cash prize, Dust Bowl Masters 2026!<br/>Click here for more information!'
+  text: 'Introducing our premier tournament with a $2000 cash prize, Dust Bowl Masters 2026!<br/>[***Registration Now Open!***](https://docs.google.com/forms/d/e/1FAIpQLScAXSQ5jlwAP1HCN7XutgThhfZZbMDTg6HAJKWyx7F_yBCCVg/viewform)'
 widget2:
   title: "What is Jugger?"
   url: '/aboutjugger/'
